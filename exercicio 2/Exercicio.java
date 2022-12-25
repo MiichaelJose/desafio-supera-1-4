@@ -1,5 +1,3 @@
-package supera;
-
 import java.math.RoundingMode;
 import java.text.DecimalFormat;
 import java.util.Locale;
