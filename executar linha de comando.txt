@@ -1,0 +1,33 @@
+/////////////////////
+
+cd exercicio 1
+
+javac Exercicio.java
+
+java Exercicio
+
+/////////////////////
+
+cd exercicio 2
+
+javac Exercicio.java
+
+java Exercicio
+
+/////////////////////
+
+cd exercicio 3
+
+javac Exercicio.java
+
+java Exercicio
+
+/////////////////////
+
+cd exercicio 1
+
+javac Exercicio.java
+
+java Exercicio
+
+/////////////////////
